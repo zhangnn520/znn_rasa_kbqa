@@ -1,0 +1,4 @@
+markdownify==0.11.6
+py2neo==2021.1.5
+rasa_sdk==3.4.0
+skimage==0.0
