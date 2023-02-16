@@ -94,7 +94,7 @@ python -m rasa train core --domain conf/domain.yml --out models
 python -m rasa run actions --port 5055 --actions actions --debug
 ```
 
-![image-20230216141332448](E:\ENOCH-2022\RASA\Rasa_neo4j\img\image-20230216141332448.png)
+![image-20230216141332448](img\image-20230216141332448.png)
 
 ### 4.2、启动rasa shell 
 
