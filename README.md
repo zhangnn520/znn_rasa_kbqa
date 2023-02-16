@@ -94,7 +94,7 @@ python -m rasa train core --domain conf/domain.yml --out models
 python -m rasa run actions --port 5055 --actions actions --debug
 ```
 
-![image-20230216141332448](img\image-20230216141332448.png)
+<img src="img\image-20230216141332448.png" alt="image-20230216141332448" style="zoom:80%;" />
 
 ### 4.2、启动rasa shell 
 
